@@ -15,3 +15,15 @@ or
 $ yarn
 $ yarn run start
 ```
+
+## Make a distribution
+
+```bash
+npm run make
+```
+
+or 
+
+```bash
+yarn run make
+```
